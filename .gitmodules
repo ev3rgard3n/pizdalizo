@@ -1,0 +1,3 @@
+[submodule "pizdaBobra"]
+	path = pizdaBobra
+	url = https://github.com/ev3rgard3n/pizdaBobra.git
